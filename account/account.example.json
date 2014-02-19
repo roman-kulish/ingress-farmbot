@@ -1,0 +1,28 @@
+{
+    "user": {
+        "username": "<your Google username>",
+        "password": "<your Google password>"
+    },
+
+    "appInfo": {
+        "nemesisSoftwareVersion": "2013-08-21T02:36:42Z 45405252f3a7 opt",
+        "deviceSoftwareVersion": "4.1.2"
+    },
+
+    "deviceInfo": {
+        "board": "MSM8660_SURF",
+        "bootloader": "unknown",
+        "brand": "SEMC",
+        "device": "LT26i",
+        "deviceId": "cc138cd8c22a20f1",
+        "display": "6.2.B.0.200",
+        "fingerprint": "SEMC/LT26i_1257-7772/LT26i:4.1.2/6.2.B.0.200/N7__zg:user/release-keys",
+        "hardware": "semc",
+        "manufacturer": "Sony Ericsson",
+        "model": "LT26i",
+        "product": "LT26i_1257-7772",
+        "rooted": false,
+        "tags": "release-keys",
+        "type": "user"
+    }
+}
