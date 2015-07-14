@@ -1,6 +1,9 @@
 Ingress Farm Bot
 ================
 
+Current status: Abandoned
+-------------------------
+
 Agreement
 ---------
 
